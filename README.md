@@ -1,3 +1,5 @@
+## Hi there, I'm Diego Navas
+## I'm a student, Undergrade, Developer and Dance Teacher!
 ## 👋 About Me  
 
 Hi! I'm an **engineering technician** with a background in **civil engineering (Colombia, 2019)**, currently transitioning into **software development**.  
