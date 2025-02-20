@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 About Me  
 
-<!--
-**diegomur09/diegomur09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm an **engineering technician** with a background in **civil engineering (Colombia, 2019)**, currently transitioning into **software development**.  
 
-Here are some ideas to get you started:
+### 💻 Tech Journey  
+- 🏫 **Software Engineering Bootcamp at TripleTen** (since Nov 2024)  
+- 🔐 **Google Cybersecurity Certificate (2024)**  
+- 🐍 **Python course at Codecademy**  
+- 🤝 **Volunteer helping other developers**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💃 Beyond Tech  
+I'm also passionate about dance! I'm the founder of **Dynamic Dance Company**, where I combine creativity and movement.  
+
+🚀 Always learning, building, and connecting!  
