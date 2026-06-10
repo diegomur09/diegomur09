@@ -19,4 +19,4 @@ AI & DevOps: Claude & OpenAI APIs · Docker · GitHub Actions CI/CD · Square/St
 Civil engineer turned software engineer — I learned by shipping production systems for real businesses. AWS Certified Solutions Architect – Associate (in progress, 2026) · Google Cybersecurity Certificate · TripleTen Software Engineering Bootcamp.
 Outside of code, I co-founded Dynamic Bachata Dance Company, where my partner and I have taught 500+ students — running it is where most of my engineering work was born.
 📫 Connect
-LinkedIn · diegomurcia2@gmail.com · myscoreflow.com · dynamicbachata.com
+LinkedIn · diegomurcia2@gmail.com · hnavasystems.com · myscoreflow.com · dynamicbachata.com
